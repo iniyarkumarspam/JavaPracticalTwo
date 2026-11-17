@@ -17,8 +17,6 @@ Signature: Alex Kaulfuss
 Date: Nov 14th
 
 AI assistance was used to help draft and explain portions of this program.
-The programmers must review, understand, and make sure this header accurately
-reflects the work and resources used before signing.
 */
 
 import java.io.FileInputStream;
