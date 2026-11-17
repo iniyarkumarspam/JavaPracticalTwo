@@ -1,0 +1,7 @@
+DAILY GRIND COFFEE STATISTICS
+Completed orders: 1
+Total customer spending (sales): $6.50
+Total loyalty points awarded: 8
+Estimated product costs (60% of sales): $3.90
+Estimated net profit: $2.60
+Featured-match order rate: 100.00%
